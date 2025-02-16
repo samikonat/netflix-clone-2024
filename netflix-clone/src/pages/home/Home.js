@@ -7,8 +7,6 @@ const Home = () => {
     <>
       <Header />
       <Footer />
-      <span>alex and sami</span>
-      <p>alhlsfhsl</p>
     </>
   );
 };

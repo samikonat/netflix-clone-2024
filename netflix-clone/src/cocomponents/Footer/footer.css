@@ -1,0 +1,51 @@
+footer {
+  margin-top: 2rem;
+}
+.outer_container {
+  color: grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.data-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 1rem;
+  /* background-color: red; */
+  width: 60%;
+  /* font-size: 12px; */
+  margin: 0 auto;
+}
+.data-container div {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+
+  width: 25%;
+}
+.data-container ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.icon-class {
+  color: white;
+  margin-left: 17rem;
+  display: flex;
+  gap: 1rem;
+}
+.service_code {
+  color: grey;
+  margin-left: 17rem;
+  border: 1px solid white;
+  width: 100px;
+  text-align: center;
+  padding: 5px;
+}
+.copywrite_class {
+  text-align: center;
+  color: grey;
+}
