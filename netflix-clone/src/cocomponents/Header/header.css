@@ -1,9 +1,11 @@
 .header_outer_container {
+  position: fixed;
   width: 100%;
   background-color: rgb(20, 20, 20);
   display: flex;
   justify-content: center;
-  padding: 10px 0;
+  top: 0;
+  margin-bottom: 2rem;
 }
 
 .header_container {
